@@ -1,0 +1,22 @@
+Function  And Non-Function Requirements for Doctor Appointment System:
+
+Functional Requirements:
+1. Doctor Availability: The system should display the availability of doctors, including their working hours and days.
+2. User Registration: The system should allow users (patients) to create accounts and register themselves.
+3. Appointment Reservation: Users should be able to schedule appointments with doctors based on availability.
+4. Appointment Confirmation: Users should receive confirmation of their appointment via email or SMS.
+5. Appointment Cancellation: Users should be able to reschedule or cancel appointments.
+6. Waiting List: If an appointment is not available, the system should allow users to join a waiting list and notify them when an appointment becomes available.
+7. Medical History Access: Doctors should have access to the medical history and records of patients when they arrive for their appointments.
+8. Prescription Generation: Doctors should be able to generate prescriptions for patients, including medications and dosage instructions.
+
+
+Non-Functional Requirements:
+1. Performance: The system should be able to handle a large number of concurrent users and provide a responsive user experience.
+2. Security: The system should ensure the confidentiality and integrity of patient data, including secure storage and transmission.
+3. Usability: The system should have a user-friendly interface, making it easy for patients to navigate and book appointments.
+4. Availability: The system should be available 24/7, allowing users to book appointments at any time.
+5. Reliability: The system should be reliable, with minimal downtime and robust error handling.
+6. Integration: The system should be able to integrate with other existing systems, such as electronic health records or payment gateways.
+7. Compliance: The system should comply with relevant legal and regulatory requirements, such as data protection and privacy laws.
+
