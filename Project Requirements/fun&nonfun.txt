@@ -1,0 +1,37 @@
+Function requirments:
+User registration: The system should allow users to create and manage their accounts, including their personal information, contact details, and payment methods.
+
+Room availability:  The system should display the available rooms  , along with any special offers or promotions.
+
+Booking management: The system should allow users to search for and book rooms, including the dates of their stay, the number of guests, and any additional services or amenities.
+
+Payment processing: The system should allow users to pay for their bookings using a variety of payment methods, such as credit cards, PayPal, or bank transfers.
+
+Reservation confirmation: The system should send confirmation emails or text messages to users after they have completed their bookings, including the details of their reservations and any payment receipts.
+
+Room allocation: The system should allocate the rooms to the users based on their preferences and availability.
+
+Check-in and check-out: The system should allow hotel staff to check in guests, assign rooms, and manage room keys. It should also allow staff to check out guests, process payments, and generate invoices.
+
+Room service and amenities: The system should allow users to order room service, request additional amenities, and report any maintenance issues or problems.
+
+Cancellation and refund: The system should allow users to cancel their bookings and request refunds, subject to the hotel's cancellation policy.
+
+Non function requirements:
+Performance: The system should be able to handle a large volume of requests and transactions efficiently and without significant delays
+
+Security: The system should be designed to protect sensitive customer information, such as credit card numbers and personal details, from unauthorized access or theft. It can be able to detect and prevent fraudulent transactions.
+
+Reliability: The system should be reliable and available for use 24/7, with minimal downtime for maintenance or upgrades. It should also be able to recover quickly from any failures or errors.
+
+Scalability: The system should be able to scale up or down as needed to accommodate changes in demand or usage patterns. It should also be able to handle multiple concurrent users without any degradation in performance.
+
+Usability: The system should be user-friendly and easy to navigate, with clear instructions and intuitive interfaces for both customers and staff. It should also be able to accommodate users with different levels of technical proficiency.
+
+Compatibility: The system should be compatible with a wide range of hardware and software platforms, including mobile devices, web browsers, and operating systems. It should also be able to integrate with other systems used by the hotel, such as accounting software and property management systems.
+
+Accessibility: It can be able to accommodate users who speak different languages.
+
+Maintainability: The system should be easy to maintain and update . It should also be able to accommodate changes in the hotel's business processes and requirements.
+
+Performance under stress: The system should be designed to handle peak loads and stress conditions without failing or compromising data integrity. It should also be able to recover quickly from any failures or errors.

@@ -8,7 +8,7 @@ Users:
 - Patients use the system to book or cancel appointment. 
 - Doctors use the system to see patients medical history. 
 Advantages: 
-1- Booking appoinments before going to the doctor makes the process more organized. 
-2- The system solve congestion problem. 
+- Booking appoinments before going to the doctor makes the process more organized. 
+- The system solve congestion problem. 
 Disadvantages: 
-- There is no way to know how much time the patient may spend in waiting list.
+- There is no way to know how much time the patient may spend in waiting list. 
