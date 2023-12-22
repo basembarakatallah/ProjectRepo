@@ -1,0 +1,45 @@
+Use Case name:
+Primary Actor:
+Precondition:
+Happy flow():
+Alternative:
+
+
+
+Use Case name:
+Primary Actor:
+Precondition:
+Happy flow():
+Alternative:
+
+
+
+Use Case name:
+Primary Actor:
+Precondition:
+Happy flow():
+Alternative:
+
+
+
+Use Case name:
+Primary Actor:
+Precondition:
+Happy flow():
+Alternative:
+
+
+
+Use Case name:
+Primary Actor:
+Precondition:
+Happy flow():
+Alternative:
+
+
+
+Use Case name:
+Primary Actor:
+Precondition:
+Happy flow():
+Alternative:
