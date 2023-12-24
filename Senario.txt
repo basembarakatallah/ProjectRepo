@@ -1,45 +1,69 @@
-Use Case name:
-Primary Actor:
-Precondition:
-Happy flow():
+Use Case name:Register
+Primary Actor:Administrator
+Precondition:Guest does not have an account on the system.
+Happy flow(Steps):
+1-Receptionist enters all guest information.
+2-System sends password to guest.
+3-Receptionist enters username and password of guest.
+4-Receptionist completes registration process.
 Alternative:
+1-Username already used
+2-Password is incorrect
 
 
-
-Use Case name:
-Primary Actor:
-Precondition:
-Happy flow():
+Use Case name:Log In
+Primary Actor:Administrator
+Precondition:Guest already has an account.
+Happy flow(Steps):
+1-Receptionist enters username.
+2-Receptionist enters password.
+3-Receptionist completes login process.
 Alternative:
+Complete login process.
+1-Username is incorrect.
+2-Password is incorrect.
 
 
 
-Use Case name:
-Primary Actor:
-Precondition:
-Happy flow():
+Use Case name:Reserve
+Primary Actor:Administrator
+Precondition:Receptionist login on the system
+Happy flow(Steps):
+1-Receptionist select check in and check out dates.
+2-Receptionist determines number of adults and number of children.
+3-Receptionist determines number of rooms.
+4-System displays available rooms according to information entered.
+5-Receptionist selects specific room.
+6-Receptionist determines meal plans and bed type.
+7-Receptionist determines additional serves.
 Alternative:
+System displays available rooms according to information entered.
+1-There is no room available based on the information entered
+Receptionist determines additional serves.
+1-Guest does not need any additional services.
 
 
-
-Use Case name:
-Primary Actor:
-Precondition:
-Happy flow():
+Use Case name:Confirm
+Primary Actor:Administrator 
+Precondition:Receptionist reserve a room.
+Happy flow(Steps):
+1-Receptionist determines card type.
+2-Receptionist determines card number and CVV/CVC and cardholder name.
+3-Card system verify information.
+4-System complete reservation process and sent confirmation email to guest.
 Alternative:
+System complete reservation process and sent confirmation email to guest.
+1-Card information entered is incorrect.
+2-There is not enough money to complete reservation process.
 
 
-
-Use Case name:
-Primary Actor:
-Precondition:
-Happy flow():
+Use Case name:Cancel
+Primary Actor:Administrator
+Precondition:Receptionist reserve a room.
+Happy flow(Steps):
+1-Receptionist enters reservation code.
+2-System refunds money to the customer.
+3-System complete reservation process and sent cancellation email to guest
 Alternative:
-
-
-
-Use Case name:
-Primary Actor:
-Precondition:
-Happy flow():
-Alternative:
+1-Receptionist enters reservation code.
+1-Reservation code is incorrect.
